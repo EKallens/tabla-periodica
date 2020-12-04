@@ -1,4 +1,4 @@
 import { init } from './js/pages/elementos-page';
-import './styles.css'
+import './styles.css';
 
 init();
